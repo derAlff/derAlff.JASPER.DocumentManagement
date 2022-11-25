@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "derAlff.JASPER.DocumentManagement", "derAlff.JASPER.DocumentManagement\derAlff.JASPER.DocumentManagement.csproj", "{26DA1322-E182-4043-9526-8CD3226EE188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{26DA1322-E182-4043-9526-8CD3226EE188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26DA1322-E182-4043-9526-8CD3226EE188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26DA1322-E182-4043-9526-8CD3226EE188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26DA1322-E182-4043-9526-8CD3226EE188}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D767FAD-9FE2-4AF4-AE2D-E7A2C7979706}
+	EndGlobalSection
+EndGlobal

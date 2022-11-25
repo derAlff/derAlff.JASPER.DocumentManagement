@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="PdfSharpCore" Version="1.3.41" />
+    <PackageReference Include="TesseractOCR" Version="5.2.14" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="derAlff.JASPER.Logger">
+      <HintPath>..\..\derAlff.JASPER.Logger\derAlff.JASPER.Logger\bin\Debug\net6.0\derAlff.JASPER.Logger.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
