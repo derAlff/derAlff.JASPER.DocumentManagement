@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "TKe5TR4xs2CRh3i2CMfnMPNOjiwr53H9OxcLYOOtxO7cSzElyHOdrBEKdByg18sbxf9jerhlh1/802t1tz0Clg==",
+  "dgSpecHash": "FsUpFsrfsQhq4CUtbSayVGCQl+9M0h4/60znx/4YW7KAtjSwLBQwU7/Krj350B4dt9IBLR3XJgGfdHwk+jjTdA==",
   "success": true,
-  "projectFilePath": "D:\\src\\01_private_gitlab\\derAlff.JASPER.DocumentManagement\\derAlff.JASPER.DocumentManagement\\derAlff.JASPER.DocumentManagement.csproj",
+  "projectFilePath": "D:\\src\\derAlff.JASPER.DocumentManagement\\derAlff.JASPER.DocumentManagement\\derAlff.JASPER.DocumentManagement.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ALFOLI\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.2\\microsoft.extensions.logging.abstractions.6.0.2.nupkg.sha512",
     "C:\\Users\\ALFOLI\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

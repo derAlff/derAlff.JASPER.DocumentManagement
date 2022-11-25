@@ -1,0 +1,48 @@
+{
+    "GlobalTargetFolder": ".",
+    "Rules":{        
+        "Flexiro":{
+            "TargetFolder": "\\lieferanten\\Flexiro",
+            "Invoice":{
+                "SearchValues": "FLEXIRO Rechnung",
+                "FindAllSearchValues": true,
+                "Subfolder": "\\2022\\Rechnung"
+            },
+            "AB":{
+                "SearchValues": "BEKA Auftragsbestätigung",
+                "FindAllSearchValues": true,
+                "Subfolder": "\\2022\\AB"
+            }
+        },
+        "My-Knx-Shop.de":{
+            "TargetFolder": "\\lieferanten\\iGST - My-KNX-Shop",
+            "Invoice":{
+                "SearchValues": "iGST Rechnung",
+                "FindAllSearchValues": true,
+                "Subfolder": "\\2022\\Rechnung"
+            },
+            "AB":{
+                "SearchValues": "iGST",
+                "FindAllSearchValues": true,
+                "Subfolder": "\\2022\\AB"
+            }
+        },
+        "CTI-Abrechnung-22":{
+            "TargetFolder": "\\oliver\\abrechnungen",
+            "Document":{
+                "SearchValues": "Lohnabrechnung",
+                "FindAllSearchValues": true,
+                "Subfolder": "\\2022"
+            }
+        }
+        ,
+        "CTI-Zeitauswertung-22":{
+            "TargetFolder": "\\oliver\\abrechnungen\\zeitauswertungen",
+            "Document":{
+                "SearchValues": "Zeitauswertung",
+                "FindAllSearchValues": true,
+                "Subfolder": "\\2022"
+            }
+        }
+    }
+}

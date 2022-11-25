@@ -1,0 +1,11 @@
+{
+    "Logging":{
+        "LogToFolder": "",
+        "LogfileName": "",
+        "LogLevel": "debug",
+        "LogfilePerDay": true
+    },
+    "InputFolder": "",
+    "TesseractData": "",
+    "PathToRules": ""
+}
